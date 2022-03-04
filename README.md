@@ -1,2 +1,2 @@
-# testingrepo
-This is a testing repository for an online class. 
+# Data Science Capstone Repository
+This repository is used for the final module in the IBM Data Science Professional Certificate module. 
